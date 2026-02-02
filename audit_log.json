@@ -1,0 +1,29 @@
+[
+    {
+        "timestamp": "2026-02-01T16:52:07.175695",
+        "user_id": 1365049471880401019,
+        "username": "SYSTEM",
+        "action": "MEMORY_CHECK",
+        "details": "Memory usage: 60.11 MB",
+        "guild_id": "SYSTEM",
+        "ip_address": "unknown"
+    },
+    {
+        "timestamp": "2026-02-01T16:57:07.188616",
+        "user_id": 1365049471880401019,
+        "username": "SYSTEM",
+        "action": "MEMORY_CHECK",
+        "details": "Memory usage: 59.69 MB",
+        "guild_id": "SYSTEM",
+        "ip_address": "unknown"
+    },
+    {
+        "timestamp": "2026-02-01T17:02:07.212487",
+        "user_id": 1365049471880401019,
+        "username": "SYSTEM",
+        "action": "MEMORY_CHECK",
+        "details": "Memory usage: 58.60 MB",
+        "guild_id": "SYSTEM",
+        "ip_address": "unknown"
+    }
+]

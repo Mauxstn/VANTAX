@@ -1,0 +1,1449 @@
+2026-01-30 14:22:15,810 - discord.client - INFO - logging in using static token
+2026-01-30 14:22:16,562 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 14:22:16,564 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 14:22:16,565 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 14:22:16,568 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 14:22:16,570 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 14:22:16,573 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 14:22:16,575 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 14:22:16,866 - vantax - INFO - Synced 12 commands
+2026-01-30 14:22:16,867 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 14:22:17,415 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1723c7a6a3f75b9e2adb8d40c080e6f8).
+2026-01-30 14:22:19,430 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 14:22:19,431 - vantax - INFO - ------
+2026-01-30 14:24:26,250 - discord.client - INFO - logging in using static token
+2026-01-30 14:24:26,792 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 14:24:26,795 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 14:24:26,797 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 14:24:26,799 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 14:24:26,803 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 14:24:26,804 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 14:24:26,806 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 14:24:27,180 - vantax - INFO - Synced 12 commands
+2026-01-30 14:24:27,180 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 14:24:27,723 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 37ef5b449fdd30855240072577f4f6ca).
+2026-01-30 14:24:29,739 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 14:24:29,740 - vantax - INFO - ------
+2026-01-30 14:28:46,212 - discord.client - INFO - logging in using static token
+2026-01-30 14:28:46,728 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 14:28:46,739 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 14:28:46,743 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 14:28:46,745 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 14:28:46,749 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 14:28:46,750 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 14:28:46,753 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 14:28:47,020 - vantax - INFO - Synced 12 commands
+2026-01-30 14:28:47,021 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 14:28:47,579 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8941be3485c299029d7b9418a66f3a50).
+2026-01-30 14:28:49,612 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 14:28:49,616 - vantax - INFO - ------
+2026-01-30 14:33:27,359 - discord.client - INFO - logging in using static token
+2026-01-30 14:33:27,938 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 14:33:27,941 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 14:33:27,943 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 14:33:27,945 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 14:33:27,947 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 14:33:27,949 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 14:33:27,951 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 14:33:28,265 - vantax - INFO - Synced 12 commands
+2026-01-30 14:33:28,266 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 14:33:28,692 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 795876f0326552eb5908265ed7fed85e).
+2026-01-30 14:33:30,709 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 14:33:30,709 - vantax - INFO - ------
+2026-01-30 14:41:41,366 - discord.client - INFO - logging in using static token
+2026-01-30 14:41:42,000 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 14:41:42,003 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 14:41:42,007 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 14:41:42,010 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 14:41:42,019 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 14:41:42,023 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 14:41:42,026 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 14:41:42,042 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 14:41:42,351 - vantax - INFO - Synced 16 commands
+2026-01-30 14:41:42,351 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 14:41:42,856 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c16220d5606ea29dc6b814183936384b).
+2026-01-30 14:41:44,891 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 14:41:44,891 - vantax - INFO - ------
+2026-01-30 18:01:37,271 - discord.client - INFO - logging in using static token
+2026-01-30 18:01:38,182 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 18:01:38,188 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 18:01:38,200 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 18:01:38,223 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 18:01:38,271 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 18:01:38,280 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 18:01:38,289 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 18:01:38,313 - vantax - ERROR - Failed to load extension cogs.utility: Extension 'cogs.utility' raised an error: SyntaxError: expected 'except' or 'finally' block (utility.py, line 141)
+2026-01-30 18:01:38,657 - vantax - INFO - Synced 12 commands
+2026-01-30 18:01:38,658 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 18:01:39,194 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 82ce6b7a9e98ecdcdbbd8c4079a9eb06).
+2026-01-30 18:01:41,214 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 18:01:41,217 - vantax - INFO - ------
+2026-01-30 18:19:10,934 - discord.client - ERROR - Attempting a reconnect in 0.90s
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1357, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 933, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1363, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-30 18:19:12,346 - discord.client - ERROR - Attempting a reconnect in 0.99s
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1357, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 933, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1363, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-30 18:19:13,407 - discord.client - ERROR - Attempting a reconnect in 2.19s
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1357, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 933, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1363, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-30 18:19:15,625 - discord.client - ERROR - Attempting a reconnect in 7.96s
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1357, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 933, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1363, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-30 18:19:23,606 - discord.client - ERROR - Attempting a reconnect in 8.31s
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1357, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 933, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1363, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-30 18:19:31,943 - discord.client - ERROR - Attempting a reconnect in 40.70s
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1357, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 995, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1026, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\resolver.py", line 39, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 933, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        None, getaddr_func, host, port, family, type, proto, flags)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 977, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 701, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\gateway.py", line 375, in from_client
+    socket = await client.http.ws_connect(str(url))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\http.py", line 554, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 1004, in _ws_connect
+    resp = await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\connector.py", line 1363, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-01-30 18:20:13,077 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2026-01-30 18:20:18,766 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f8488761310b374fd76ee761e8433327).
+2026-01-30 18:20:20,785 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 18:20:20,786 - vantax - INFO - ------
+2026-01-30 19:49:12,415 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-30 19:49:12,429 - discord.client - INFO - logging in using static token
+2026-01-30 19:49:13,080 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 19:49:13,094 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 19:49:13,108 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 19:49:13,137 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 19:49:13,291 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 19:49:13,308 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 19:49:13,353 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 19:49:13,374 - vantax - ERROR - Failed to load extension cogs.utility: Extension 'cogs.utility' raised an error: IndentationError: unexpected unindent (utility.py, line 141)
+2026-01-30 19:49:13,692 - vantax - INFO - Synced 12 commands
+2026-01-30 19:49:13,692 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 19:49:14,135 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 997889d1f09722cfff81a7f490bd5d2e).
+2026-01-30 19:49:16,176 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 19:49:16,178 - vantax - INFO - ------
+2026-01-30 19:51:37,652 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-30 19:51:37,658 - discord.client - INFO - logging in using static token
+2026-01-30 19:51:38,375 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 19:51:38,378 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 19:51:38,382 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 19:51:38,385 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 19:51:38,390 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 19:51:38,393 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 19:51:38,398 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 19:51:38,401 - vantax - ERROR - Failed to load extension cogs.utility: Extension 'cogs.utility' raised an error: IndentationError: unexpected unindent (utility.py, line 140)
+2026-01-30 19:51:38,725 - vantax - INFO - Synced 12 commands
+2026-01-30 19:51:38,729 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 19:51:39,469 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 42dc066d9dd7c4ac1113e4ee05cfb109).
+2026-01-30 19:51:41,505 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 19:51:41,507 - vantax - INFO - ------
+2026-01-30 19:52:10,349 - discord.client - INFO - logging in using static token
+2026-01-30 19:52:10,934 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 19:52:10,948 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 19:52:10,961 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 19:52:10,969 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 19:52:10,976 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 19:52:10,982 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 19:52:10,987 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 19:52:11,000 - vantax - ERROR - Failed to load extension cogs.utility: Extension 'cogs.utility' raised an error: SyntaxError: expected 'except' or 'finally' block (utility.py, line 140)
+2026-01-30 19:52:11,280 - vantax - INFO - Synced 12 commands
+2026-01-30 19:52:11,281 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 19:52:11,858 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0376b46ca94f1223cd1b675e7610fb3f).
+2026-01-30 19:52:13,898 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 19:52:13,899 - vantax - INFO - ------
+2026-01-30 19:54:08,025 - discord.client - INFO - logging in using static token
+2026-01-30 19:54:08,711 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 19:54:08,717 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 19:54:08,723 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 19:54:08,728 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 19:54:08,735 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 19:54:08,740 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 19:54:08,749 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 19:54:08,774 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 19:54:09,048 - vantax - INFO - Synced 16 commands
+2026-01-30 19:54:09,048 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 19:54:09,554 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3b030f43cb21228759426f9b38687e76).
+2026-01-30 19:54:11,569 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 19:54:11,570 - vantax - INFO - ------
+2026-01-30 19:56:46,721 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 42dc066d9dd7c4ac1113e4ee05cfb109.
+2026-01-30 19:56:46,722 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 3b030f43cb21228759426f9b38687e76.
+2026-01-30 20:03:43,528 - discord.client - INFO - logging in using static token
+2026-01-30 20:03:44,087 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:03:44,094 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:03:44,101 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:03:44,108 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:03:44,114 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:03:44,122 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:03:44,130 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:03:44,154 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:03:44,542 - vantax - INFO - Synced 16 commands
+2026-01-30 20:03:44,543 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:03:45,117 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 97020b070bec8752433f9f76c0ed88e5).
+2026-01-30 20:03:47,142 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:03:47,143 - vantax - INFO - ------
+2026-01-30 20:05:00,012 - discord.client - INFO - logging in using static token
+2026-01-30 20:05:00,715 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:05:00,718 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:05:00,722 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:05:00,725 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:05:00,730 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:05:00,734 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:05:00,739 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:05:00,747 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:05:01,077 - vantax - INFO - Synced 16 commands
+2026-01-30 20:05:01,077 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:05:02,487 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 11cbb8853e2f8b1578690b1b0428716b).
+2026-01-30 20:05:04,544 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:05:04,544 - vantax - INFO - ------
+2026-01-30 20:07:35,208 - discord.client - INFO - logging in using static token
+2026-01-30 20:07:35,997 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:07:36,001 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:07:36,007 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:07:36,012 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:07:36,018 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:07:36,023 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:07:36,030 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:07:36,056 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:07:36,340 - vantax - INFO - Synced 16 commands
+2026-01-30 20:07:36,341 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:07:36,892 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 90137819b5b381b5146795f241e90923).
+2026-01-30 20:07:38,910 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:07:38,910 - vantax - INFO - ------
+2026-01-30 20:07:50,160 - discord.client - INFO - logging in using static token
+2026-01-30 20:07:50,665 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:07:50,671 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:07:50,675 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:07:50,679 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:07:50,683 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:07:50,686 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:07:50,689 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:07:50,696 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:08:19,880 - discord.client - INFO - logging in using static token
+2026-01-30 20:08:20,396 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:08:20,404 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:08:20,410 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:08:20,418 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:08:20,427 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:08:20,437 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:08:20,446 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:08:20,470 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:09:06,450 - vantax - INFO - Synced 16 commands
+2026-01-30 20:09:06,450 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:09:07,351 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 14daf06b85185d250f3d6ec98f3313de).
+2026-01-30 20:09:09,365 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:09:09,365 - vantax - INFO - ------
+2026-01-30 20:10:19,887 - discord.client - INFO - logging in using static token
+2026-01-30 20:10:20,700 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:10:20,703 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:10:20,706 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:10:20,709 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:10:20,714 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:10:20,718 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:10:20,722 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:10:20,728 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:10:21,122 - vantax - INFO - Synced 17 commands
+2026-01-30 20:10:21,123 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:10:21,663 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c4b5880a9b6cfe7d66379130a1b88a68).
+2026-01-30 20:10:23,681 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:10:23,682 - vantax - INFO - ------
+2026-01-30 20:31:54,287 - discord.gateway - INFO - Shard ID None has successfully RESUMED session c4b5880a9b6cfe7d66379130a1b88a68.
+2026-01-30 20:36:12,941 - discord.client - INFO - logging in using static token
+2026-01-30 20:36:13,434 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:36:13,438 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:36:13,441 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:36:13,446 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:36:13,452 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:36:13,455 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:36:13,459 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:36:13,483 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:36:13,838 - vantax - INFO - Synced 17 commands
+2026-01-30 20:36:13,839 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:36:14,346 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 69b90d8f82092f662c6d5fe086e8e265).
+2026-01-30 20:36:16,458 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:36:16,458 - vantax - INFO - ------
+2026-01-30 20:43:06,810 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 42dc066d9dd7c4ac1113e4ee05cfb109.
+2026-01-30 20:43:23,666 - discord.client - INFO - logging in using static token
+2026-01-30 20:43:24,563 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:43:24,566 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:43:24,569 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:43:24,572 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:43:24,577 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:43:24,580 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:43:24,583 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:43:24,597 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:43:25,053 - vantax - INFO - Synced 17 commands
+2026-01-30 20:43:25,054 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:43:29,293 - discord.client - INFO - logging in using static token
+2026-01-30 20:43:30,156 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:43:30,160 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:43:30,163 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:43:30,167 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:43:30,171 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:43:30,175 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:43:30,179 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:43:30,185 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:44:25,096 - vantax - INFO - Synced 17 commands
+2026-01-30 20:44:25,096 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:44:25,642 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a0f1e85dd3120b70c181b06b2ea5e85d).
+2026-01-30 20:44:27,663 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:44:27,664 - vantax - INFO - ------
+2026-01-30 20:46:59,837 - discord.client - INFO - logging in using static token
+2026-01-30 20:47:00,359 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:47:00,361 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:47:00,363 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:47:00,365 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:47:00,369 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:47:00,372 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:47:00,374 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:47:00,378 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:47:00,831 - vantax - INFO - Synced 18 commands
+2026-01-30 20:47:00,832 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:47:01,326 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e1326ffca1b19ee4010b6bc5c8f9640b).
+2026-01-30 20:47:03,341 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:47:03,341 - vantax - INFO - ------
+2026-01-30 20:47:12,468 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1365049471880401019/commands responded with 429. Retrying in 18.12 seconds.
+2026-01-30 20:47:26,939 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-30 20:47:26,945 - discord.client - INFO - logging in using static token
+2026-01-30 20:47:27,490 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:47:27,493 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:47:27,496 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:47:27,499 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:47:27,503 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:47:27,505 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:47:27,507 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:47:27,516 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:47:27,706 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1365049471880401019/commands responded with 429. Retrying in 2.89 seconds.
+2026-01-30 20:47:30,814 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1365049471880401019/commands responded with 429. Retrying in 29.79 seconds.
+2026-01-30 20:48:00,972 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1365049471880401019/commands responded with 429. Retrying in 29.63 seconds.
+2026-01-30 20:48:00,981 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1365049471880401019/commands responded with 429. Retrying in 29.62 seconds.
+2026-01-30 20:48:30,935 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1365049471880401019/commands responded with 429. Retrying in 29.66 seconds.
+2026-01-30 20:48:31,037 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1365049471880401019/commands responded with 429. Retrying in 29.61 seconds.
+2026-01-30 20:49:00,860 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1365049471880401019/commands responded with 429. Retrying in 29.74 seconds.
+2026-01-30 20:49:00,883 - vantax - INFO - Synced 18 commands
+2026-01-30 20:49:00,885 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:49:01,427 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1cc7e576f9101952b2a67703a74d2958).
+2026-01-30 20:49:03,444 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:49:03,447 - vantax - INFO - ------
+2026-01-30 20:49:30,969 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1365049471880401019/commands responded with 429. Retrying in 29.63 seconds.
+2026-01-30 20:57:35,903 - discord.client - INFO - logging in using static token
+2026-01-30 20:57:36,486 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 20:57:36,489 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 20:57:36,493 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 20:57:36,496 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 20:57:36,501 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 20:57:36,504 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 20:57:36,508 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 20:57:36,512 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 20:57:36,793 - vantax - INFO - Synced 18 commands
+2026-01-30 20:57:36,793 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:57:37,289 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6f47c755bcbde18dae6c9f7c3ade8e07).
+2026-01-30 20:57:39,352 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 20:57:39,352 - vantax - INFO - ------
+2026-01-30 20:57:49,007 - discord.webhook.async_ - WARNING - Webhook ID 1466885130256777216 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 20:59:33,085 - discord.webhook.async_ - WARNING - Webhook ID 1466885566535827476 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 20:59:33,103 - discord.webhook.async_ - WARNING - Webhook ID 1466885566535827476 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:00:49,816 - discord.webhook.async_ - WARNING - Webhook ID 1466885888356384888 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:01:02,594 - discord.webhook.async_ - WARNING - Webhook ID 1466885942118715585 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:01:02,597 - discord.webhook.async_ - WARNING - Webhook ID 1466885942118715585 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:01:07,532 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-30 21:01:07,542 - discord.client - INFO - logging in using static token
+2026-01-30 21:01:08,436 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 21:01:08,439 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 21:01:08,442 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 21:01:08,444 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 21:01:08,469 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 21:01:08,471 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 21:01:08,475 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 21:01:08,487 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 21:01:08,899 - vantax - INFO - Synced 18 commands
+2026-01-30 21:01:08,900 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:01:09,583 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1ea97bc156d9a8edb7e3252bf8bd6da7).
+2026-01-30 21:01:11,607 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:01:11,608 - vantax - INFO - ------
+2026-01-30 21:01:23,782 - discord.webhook.async_ - WARNING - Webhook ID 1466886030853669047 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:01:23,849 - discord.webhook.async_ - WARNING - Webhook ID 1466886030853669047 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:01:55,618 - discord.webhook.async_ - WARNING - Webhook ID 1466886164131741878 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:01:55,622 - discord.webhook.async_ - WARNING - Webhook ID 1466886164131741878 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:01:55,626 - discord.webhook.async_ - WARNING - Webhook ID 1466886164131741878 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:01:55,691 - discord.webhook.async_ - WARNING - Webhook ID 1466886164131741878 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:01:56,140 - discord.webhook.async_ - WARNING - Webhook ID 1466886164131741878 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:02:09,733 - discord.webhook.async_ - WARNING - Webhook ID 1466886223938457917 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:02:09,748 - discord.webhook.async_ - WARNING - Webhook ID 1466886223938457917 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:02:09,755 - discord.webhook.async_ - WARNING - Webhook ID 1466886223938457917 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:02:09,768 - discord.webhook.async_ - WARNING - Webhook ID 1466886223938457917 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:02:10,230 - discord.webhook.async_ - WARNING - Webhook ID 1466886223938457917 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:02:31,123 - discord.webhook.async_ - WARNING - Webhook ID 1466886312962297856 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:02:31,130 - discord.webhook.async_ - WARNING - Webhook ID 1466886312962297856 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:02:31,149 - discord.webhook.async_ - WARNING - Webhook ID 1466886312962297856 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:03:13,838 - discord.webhook.async_ - WARNING - Webhook ID 1466886491572535450 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:03:13,891 - discord.webhook.async_ - WARNING - Webhook ID 1466886491572535450 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:03:49,256 - discord.webhook.async_ - WARNING - Webhook ID 1466886640730636411 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:03:49,256 - discord.webhook.async_ - WARNING - Webhook ID 1466886640730636411 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:03:49,279 - discord.webhook.async_ - WARNING - Webhook ID 1466886640730636411 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:03:49,731 - discord.webhook.async_ - WARNING - Webhook ID 1466886640730636411 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:04:00,615 - discord.webhook.async_ - WARNING - Webhook ID 1466886689015464087 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:04:00,616 - discord.webhook.async_ - WARNING - Webhook ID 1466886689015464087 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:04:00,618 - discord.webhook.async_ - WARNING - Webhook ID 1466886689015464087 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:04:42,365 - discord.webhook.async_ - WARNING - Webhook ID 1466886863695646953 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:04:42,373 - discord.webhook.async_ - WARNING - Webhook ID 1466886863695646953 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:04:42,378 - discord.webhook.async_ - WARNING - Webhook ID 1466886863695646953 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:05:18,112 - discord.webhook.async_ - WARNING - Webhook ID 1466887013390356490 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:05:18,126 - discord.webhook.async_ - WARNING - Webhook ID 1466887013390356490 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:05:34,165 - discord.webhook.async_ - WARNING - Webhook ID 1466887081048412418 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:05:34,169 - discord.webhook.async_ - WARNING - Webhook ID 1466887081048412418 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:05:34,169 - discord.webhook.async_ - WARNING - Webhook ID 1466887081048412418 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:05:34,177 - discord.webhook.async_ - WARNING - Webhook ID 1466887081048412418 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:05:34,633 - discord.webhook.async_ - WARNING - Webhook ID 1466887081048412418 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:05:54,323 - discord.webhook.async_ - WARNING - Webhook ID 1466887165475815556 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:05:54,331 - discord.webhook.async_ - WARNING - Webhook ID 1466887165475815556 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:06:09,332 - discord.webhook.async_ - WARNING - Webhook ID 1466887228801155164 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:06:09,333 - discord.webhook.async_ - WARNING - Webhook ID 1466887228801155164 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:06:09,334 - discord.webhook.async_ - WARNING - Webhook ID 1466887228801155164 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:06:09,334 - discord.webhook.async_ - WARNING - Webhook ID 1466887228801155164 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:06:09,798 - discord.webhook.async_ - WARNING - Webhook ID 1466887228801155164 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:13:50,172 - discord.client - INFO - logging in using static token
+2026-01-30 21:13:50,747 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 21:13:50,751 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 21:13:50,753 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 21:13:50,756 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 21:13:50,759 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 21:13:50,761 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 21:13:50,764 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 21:13:50,778 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 21:13:51,240 - vantax - INFO - Synced 19 commands
+2026-01-30 21:13:51,240 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:13:51,701 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 470ed4dab43b2a1ddda66707d8b34794).
+2026-01-30 21:13:53,716 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:13:53,717 - vantax - INFO - ------
+2026-01-30 21:14:23,617 - discord.gateway - INFO - Shard ID None has successfully RESUMED session e1326ffca1b19ee4010b6bc5c8f9640b.
+2026-01-30 21:14:30,687 - discord.webhook.async_ - WARNING - Webhook ID 1466889331091312730 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:16:08,682 - discord.client - INFO - logging in using static token
+2026-01-30 21:16:09,304 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 21:16:09,306 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 21:16:09,309 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 21:16:09,310 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 21:16:09,313 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 21:16:09,314 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 21:16:09,316 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 21:16:09,328 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 21:16:09,717 - vantax - INFO - Synced 19 commands
+2026-01-30 21:16:09,717 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:16:10,187 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cb6e4216e74b5121c8f3d0ca3a790c23).
+2026-01-30 21:16:12,202 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:16:12,203 - vantax - INFO - ------
+2026-01-30 21:16:29,658 - discord.webhook.async_ - WARNING - Webhook ID 1466889830439846082 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:16:38,064 - discord.webhook.async_ - WARNING - Webhook ID 1466889865772667067 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:16:46,657 - discord.webhook.async_ - WARNING - Webhook ID 1466889902036746386 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:17:35,282 - discord.client - INFO - logging in using static token
+2026-01-30 21:17:36,095 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 21:17:36,098 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 21:17:36,100 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 21:17:36,103 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 21:17:36,106 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 21:17:36,109 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 21:17:36,111 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 21:17:36,114 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 21:17:36,463 - vantax - INFO - Synced 19 commands
+2026-01-30 21:17:36,464 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:17:37,060 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f0737c62cb72a55a387f042dcc4eb7c2).
+2026-01-30 21:17:39,071 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:17:39,072 - vantax - INFO - ------
+2026-01-30 21:18:14,321 - discord.webhook.async_ - WARNING - Webhook ID 1466890269730410709 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:18:24,500 - discord.webhook.async_ - WARNING - Webhook ID 1466890312411517261 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:19:53,308 - discord.webhook.async_ - WARNING - Webhook ID 1466890684522041354 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:21:55,759 - discord.client - INFO - logging in using static token
+2026-01-30 21:21:56,491 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 21:21:56,494 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 21:21:56,498 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 21:21:56,501 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 21:21:56,506 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 21:21:56,509 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 21:21:56,512 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 21:21:56,518 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 21:21:56,882 - vantax - INFO - Synced 19 commands
+2026-01-30 21:21:56,883 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:21:57,470 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b5e2eec73a54fe2039cd0a2c7ec8e320).
+2026-01-30 21:21:59,494 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:21:59,495 - vantax - INFO - ------
+2026-01-30 21:22:30,805 - discord.webhook.async_ - WARNING - Webhook ID 1466891345238167552 is rate limited. Retrying in 0.30 seconds.
+2026-01-30 21:26:01,688 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-30 21:26:01,704 - discord.client - INFO - logging in using static token
+2026-01-30 21:26:02,362 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-30 21:26:02,366 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-30 21:26:02,370 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-30 21:26:02,373 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-30 21:26:02,381 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-30 21:26:02,385 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-30 21:26:02,388 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-30 21:26:02,410 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-30 21:26:02,684 - vantax - INFO - Synced 19 commands
+2026-01-30 21:26:02,684 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:26:03,152 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 26af6c5081066ead9fca21a0f770cd4a).
+2026-01-30 21:26:05,168 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-30 21:26:05,168 - vantax - INFO - ------
+2026-01-31 17:00:34,102 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 17:00:34,116 - discord.client - INFO - logging in using static token
+2026-01-31 17:00:34,816 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 17:00:34,820 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 17:00:34,825 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 17:00:34,829 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 17:00:34,868 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 17:00:34,872 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 17:00:34,879 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 17:00:34,927 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 17:00:35,485 - vantax - INFO - Synced 19 commands
+2026-01-31 17:00:35,486 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 17:00:37,013 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 84086ba46774dfca0ca78df0d833310e).
+2026-01-31 17:00:39,085 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 17:00:39,086 - vantax - INFO - ------
+2026-01-31 17:18:59,174 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 84086ba46774dfca0ca78df0d833310e.
+2026-01-31 17:26:01,159 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 17:26:01,163 - discord.client - INFO - logging in using static token
+2026-01-31 17:26:01,842 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 17:26:01,846 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 17:26:01,850 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 17:26:01,875 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 17:26:01,889 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 17:26:01,894 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 17:26:01,899 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 17:26:01,929 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 17:26:01,941 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 17:26:01,954 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 17:26:02,341 - vantax - INFO - Synced 31 commands
+2026-01-31 17:26:02,341 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 17:26:02,828 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9e0448a3fce97866ce57a7d962e14d96).
+2026-01-31 17:26:04,842 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 17:26:04,843 - vantax - INFO - ------
+2026-01-31 17:31:35,909 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 17:31:35,916 - discord.client - INFO - logging in using static token
+2026-01-31 17:31:36,610 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 17:31:36,614 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 17:31:36,620 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 17:31:36,626 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 17:31:36,633 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 17:31:36,641 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 17:31:36,646 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 17:31:36,658 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 17:31:36,662 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 17:31:36,673 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 17:31:37,301 - vantax - INFO - Synced 31 commands
+2026-01-31 17:31:37,304 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 17:31:37,763 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 91787beaffcc7167a39cc71ad352e81f).
+2026-01-31 17:31:39,775 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 17:31:39,775 - vantax - INFO - ------
+2026-01-31 19:21:09,847 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 19:21:09,865 - discord.client - INFO - logging in using static token
+2026-01-31 19:21:10,558 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 19:21:10,561 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 19:21:10,566 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 19:21:10,580 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 19:21:10,588 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 19:21:10,596 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 19:21:10,601 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 19:21:10,610 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 19:21:10,617 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 19:21:10,625 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 19:21:11,190 - vantax - INFO - Synced 32 commands
+2026-01-31 19:21:11,191 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 19:21:11,715 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7e5fda9d5eba2f2ea9663bfe3ef606b2).
+2026-01-31 19:21:13,726 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 19:21:13,727 - vantax - INFO - ------
+2026-01-31 20:08:15,189 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 20:08:15,195 - discord.client - INFO - logging in using static token
+2026-01-31 20:08:15,769 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 20:08:15,772 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 20:08:15,775 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 20:08:15,781 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 20:08:15,786 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 20:08:15,789 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 20:08:15,792 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 20:08:15,799 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 20:08:15,804 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 20:08:15,809 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 20:08:16,119 - vantax - INFO - Synced 32 commands
+2026-01-31 20:08:16,119 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 20:08:16,586 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 194c2815bc3ebf6ab688157b20fc6be0).
+2026-01-31 20:08:18,624 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 20:08:18,624 - vantax - INFO - ------
+2026-01-31 21:45:07,312 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 21:45:07,316 - discord.client - INFO - logging in using static token
+2026-01-31 21:45:08,457 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 21:45:08,461 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 21:45:08,464 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 21:45:08,471 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 21:45:08,497 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 21:45:08,501 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 21:45:08,505 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 21:45:08,534 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 21:45:08,540 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 21:45:08,545 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 21:45:09,090 - vantax - INFO - Synced 33 commands
+2026-01-31 21:45:09,090 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:45:09,589 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 19ffe3794c772096c0f432824cf49c62).
+2026-01-31 21:45:11,631 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:45:11,632 - vantax - INFO - ------
+2026-01-31 21:49:43,907 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 21:49:43,912 - discord.client - INFO - logging in using static token
+2026-01-31 21:49:44,464 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 21:49:44,468 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 21:49:44,471 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 21:49:44,475 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 21:49:44,480 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 21:49:44,483 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 21:49:44,486 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 21:49:44,500 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 21:49:44,504 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 21:49:44,509 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 21:49:44,866 - vantax - INFO - Synced 33 commands
+2026-01-31 21:49:44,866 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:49:45,334 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 99e010665cbfb79f8e17d6096ebf82eb).
+2026-01-31 21:49:47,373 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:49:47,374 - vantax - INFO - ------
+2026-01-31 21:52:27,254 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 21:52:27,260 - discord.client - INFO - logging in using static token
+2026-01-31 21:52:27,905 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 21:52:27,920 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 21:52:27,924 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 21:52:27,929 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 21:52:27,935 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 21:52:27,940 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 21:52:27,944 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 21:52:27,965 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 21:52:27,971 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 21:52:27,977 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 21:52:28,293 - vantax - INFO - Synced 33 commands
+2026-01-31 21:52:28,294 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:52:28,940 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 981f37d2940a29dd59c101edf443d9cc).
+2026-01-31 21:52:30,969 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:52:30,970 - vantax - INFO - ------
+2026-01-31 21:54:57,209 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 21:54:57,217 - discord.client - INFO - logging in using static token
+2026-01-31 21:54:57,810 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 21:54:57,817 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 21:54:57,822 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 21:54:57,829 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 21:54:57,835 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 21:54:57,841 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 21:54:57,851 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 21:54:57,876 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 21:54:57,883 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 21:54:57,894 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 21:54:58,241 - vantax - INFO - Synced 33 commands
+2026-01-31 21:54:58,246 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:54:58,740 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ddffffa49157d15b1a1e9795dcaf950b).
+2026-01-31 21:55:00,745 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:55:00,746 - vantax - INFO - ------
+2026-01-31 21:56:54,143 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 21:56:54,147 - discord.client - INFO - logging in using static token
+2026-01-31 21:56:54,660 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 21:56:54,666 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 21:56:54,670 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 21:56:54,678 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 21:56:54,684 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 21:56:54,688 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 21:56:54,690 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 21:56:54,715 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 21:56:54,719 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 21:56:54,724 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 21:56:55,062 - vantax - INFO - Synced 33 commands
+2026-01-31 21:56:55,063 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:56:55,550 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fe6f3771ca72d69781e7a5fc534984f8).
+2026-01-31 21:56:57,572 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:56:57,572 - vantax - INFO - ------
+2026-01-31 21:58:51,245 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 21:58:51,250 - discord.client - INFO - logging in using static token
+2026-01-31 21:58:51,844 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 21:58:51,850 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 21:58:51,854 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 21:58:51,859 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 21:58:51,865 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 21:58:51,873 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 21:58:51,877 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 21:58:51,898 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 21:58:51,902 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 21:58:51,904 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 21:59:24,303 - vantax - INFO - Synced 33 commands
+2026-01-31 21:59:24,304 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:59:24,792 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1563fd63824165b1fcb9d872e65e9703).
+2026-01-31 21:59:26,796 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 21:59:26,797 - vantax - INFO - ------
+2026-01-31 22:01:01,352 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 22:01:01,357 - discord.client - INFO - logging in using static token
+2026-01-31 22:01:01,885 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 22:01:01,887 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 22:01:01,890 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 22:01:01,894 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 22:01:01,898 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 22:01:01,901 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 22:01:01,904 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 22:01:01,920 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 22:01:01,924 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 22:01:01,929 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 22:01:02,220 - vantax - INFO - Synced 33 commands
+2026-01-31 22:01:02,221 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:01:02,725 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2035471a23e949e2840babfd833e4bd8).
+2026-01-31 22:01:04,754 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:01:04,755 - vantax - INFO - ------
+2026-01-31 22:02:33,385 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 22:02:33,389 - discord.client - INFO - logging in using static token
+2026-01-31 22:02:34,236 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 22:02:34,240 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 22:02:34,244 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 22:02:34,249 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 22:02:34,254 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 22:02:34,258 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 22:02:34,261 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 22:02:34,286 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 22:02:34,291 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 22:02:34,295 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 22:02:34,622 - vantax - INFO - Synced 33 commands
+2026-01-31 22:02:34,622 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:02:35,057 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 25edb4ca668fc37f439b99e74636fde5).
+2026-01-31 22:02:37,095 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:02:37,096 - vantax - INFO - ------
+2026-01-31 22:04:54,131 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 22:04:54,140 - discord.client - INFO - logging in using static token
+2026-01-31 22:04:54,872 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 22:04:54,877 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 22:04:54,881 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 22:04:54,886 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 22:04:54,891 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 22:04:54,897 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 22:04:54,904 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 22:04:54,924 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 22:04:54,929 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 22:04:54,935 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 22:04:55,290 - vantax - INFO - Synced 33 commands
+2026-01-31 22:04:55,290 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:04:55,821 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b6026ad580d6b6934c42949587595c97).
+2026-01-31 22:04:57,828 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:04:57,829 - vantax - INFO - ------
+2026-01-31 22:10:30,155 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 22:10:30,162 - discord.client - INFO - logging in using static token
+2026-01-31 22:10:30,770 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 22:10:30,773 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 22:10:30,776 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 22:10:30,783 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 22:10:30,789 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 22:10:30,793 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 22:10:30,802 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 22:10:30,833 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 22:10:30,853 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 22:10:30,963 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 22:10:31,578 - vantax - INFO - Synced 35 commands
+2026-01-31 22:10:31,578 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:10:32,134 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3b8405b19d46daf9d3f60f4842b53b7f).
+2026-01-31 22:10:34,173 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:10:34,174 - vantax - INFO - ------
+2026-01-31 22:13:18,389 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 22:13:18,399 - discord.client - INFO - logging in using static token
+2026-01-31 22:13:19,075 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 22:13:19,079 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 22:13:19,085 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 22:13:19,092 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 22:13:19,103 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 22:13:19,110 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 22:13:19,117 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 22:13:19,143 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 22:13:19,149 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 22:13:19,155 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 22:13:19,677 - vantax - INFO - Synced 35 commands
+2026-01-31 22:13:19,678 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:13:20,200 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 65ef32f8b12f906dded95794b7dce35b).
+2026-01-31 22:13:22,214 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:13:22,215 - vantax - INFO - ------
+2026-01-31 22:22:41,512 - discord.client - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\Maurice\Coding\Discord Bot\cogs\level.py", line 88, in on_message
+    self.data[gid][uid]["messages"] += 1
+KeyError: 'messages'
+2026-01-31 22:28:14,916 - discord.client - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\Maurice\Coding\Discord Bot\cogs\level.py", line 88, in on_message
+    self.data[gid][uid]["messages"] += 1
+KeyError: 'messages'
+2026-01-31 22:32:32,221 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 22:32:32,226 - discord.client - INFO - logging in using static token
+2026-01-31 22:32:32,829 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 22:32:32,832 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 22:32:32,835 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 22:32:32,841 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 22:32:32,877 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 22:32:32,880 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 22:32:32,884 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 22:32:32,899 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 22:32:32,902 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 22:32:32,906 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 22:32:33,233 - vantax - INFO - Synced 36 commands
+2026-01-31 22:32:33,234 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:32:34,026 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e690306d3d5570dfba73fa6df39974df).
+2026-01-31 22:32:36,038 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:32:36,039 - vantax - INFO - ------
+2026-01-31 22:33:43,349 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 22:33:43,353 - discord.client - INFO - logging in using static token
+2026-01-31 22:33:43,851 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 22:33:43,855 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 22:33:43,858 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 22:33:43,861 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 22:33:43,865 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 22:33:43,868 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 22:33:43,872 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 22:33:43,886 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 22:33:43,890 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 22:33:43,894 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 22:33:44,358 - vantax - INFO - Synced 36 commands
+2026-01-31 22:33:44,359 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:33:44,903 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f76fa0238ce00bf7a88b11eb1afd3fcf).
+2026-01-31 22:33:46,922 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:33:46,923 - vantax - INFO - ------
+2026-01-31 22:36:32,436 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 22:36:32,440 - discord.client - INFO - logging in using static token
+2026-01-31 22:36:32,998 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 22:36:33,000 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 22:36:33,003 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 22:36:33,008 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 22:36:33,011 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 22:36:33,014 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 22:36:33,016 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 22:36:33,033 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 22:36:33,037 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 22:36:33,042 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 22:36:33,393 - vantax - INFO - Synced 37 commands
+2026-01-31 22:36:33,393 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:36:34,057 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 40caffee8f8bc6ef07bd4155a999a236).
+2026-01-31 22:36:36,093 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:36:36,093 - vantax - INFO - ------
+2026-01-31 22:38:00,349 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-31 22:38:00,354 - discord.client - INFO - logging in using static token
+2026-01-31 22:38:01,276 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-01-31 22:38:01,279 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-01-31 22:38:01,281 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-01-31 22:38:01,285 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-01-31 22:38:01,289 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-01-31 22:38:01,292 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-01-31 22:38:01,295 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-01-31 22:38:01,302 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-01-31 22:38:01,308 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-01-31 22:38:01,312 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-01-31 22:38:01,655 - vantax - INFO - Synced 37 commands
+2026-01-31 22:38:01,656 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:38:02,151 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c7e846f3ab9ce91896e4b858ad9ffb09).
+2026-01-31 22:38:04,189 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-01-31 22:38:04,190 - vantax - INFO - ------
+2026-02-01 15:59:27,953 - discord.client - INFO - logging in using static token
+2026-02-01 15:59:28,525 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-02-01 15:59:28,529 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-02-01 15:59:28,532 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-02-01 15:59:28,542 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-02-01 15:59:28,570 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-02-01 15:59:28,573 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-02-01 15:59:28,576 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-02-01 15:59:28,634 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-02-01 15:59:28,668 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-02-01 15:59:28,699 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-02-01 15:59:29,250 - vantax - INFO - Synced 37 commands
+2026-02-01 15:59:29,251 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-02-01 15:59:29,725 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f15a526c674e06c6e2729db62d7eda16).
+2026-02-01 15:59:31,739 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-02-01 15:59:31,747 - vantax - INFO - ------
+2026-02-01 16:11:18,315 - discord.client - INFO - logging in using static token
+2026-02-01 16:11:18,847 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-02-01 16:11:18,850 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-02-01 16:11:18,854 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-02-01 16:11:18,859 - vantax - INFO - Successfully loaded extension: cogs.welcome
+2026-02-01 16:11:18,865 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-02-01 16:11:18,869 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-02-01 16:11:18,873 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-02-01 16:11:18,880 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-02-01 16:11:18,883 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-02-01 16:11:18,886 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-02-01 16:11:18,900 - vantax - INFO - Successfully loaded extension: cogs.birthday
+2026-02-01 16:11:18,916 - vantax - INFO - Successfully loaded extension: cogs.automod
+2026-02-01 16:11:18,930 - vantax - INFO - Successfully loaded extension: cogs.antiraid
+2026-02-01 16:11:20,077 - vantax - INFO - Synced 50 commands
+2026-02-01 16:11:20,077 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-02-01 16:11:20,568 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 04a9c88bb1fa284d485b2ab3d08fc0b8).
+2026-02-01 16:11:22,591 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-02-01 16:11:22,592 - vantax - INFO - ------
+2026-02-01 16:52:02,031 - discord.client - INFO - logging in using static token
+2026-02-01 16:52:02,539 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-02-01 16:52:02,542 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-02-01 16:52:02,545 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-02-01 16:52:02,560 - vantax - ERROR - Failed to load extension cogs.welcome: Extension 'cogs.welcome' raised an error: JSONDecodeError: Expecting value: line 7 column 25 (char 224)
+2026-02-01 16:52:02,565 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-02-01 16:52:02,569 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-02-01 16:52:02,572 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-02-01 16:52:02,578 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-02-01 16:52:02,582 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-02-01 16:52:02,585 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-02-01 16:52:02,589 - vantax - INFO - Successfully loaded extension: cogs.birthday
+2026-02-01 16:52:02,593 - vantax - INFO - Successfully loaded extension: cogs.automod
+2026-02-01 16:52:02,606 - vantax - INFO - Successfully loaded extension: cogs.antiraid
+2026-02-01 16:52:02,917 - vantax - INFO - Successfully loaded extension: cogs.security
+2026-02-01 16:52:03,403 - vantax - INFO - Successfully loaded extension: cogs.database
+2026-02-01 16:52:04,656 - vantax - INFO - Synced 54 commands
+2026-02-01 16:52:04,657 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-02-01 16:52:05,159 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1ca94ffca3a3189718cce846adb41dca).
+2026-02-01 16:52:07,316 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-02-01 16:52:07,316 - vantax - INFO - ------
+2026-02-01 17:55:49,769 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-02-01 17:55:49,780 - discord.client - INFO - logging in using static token
+2026-02-01 17:55:50,418 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-02-01 17:55:50,423 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-02-01 17:55:50,426 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-02-01 17:55:50,442 - vantax - ERROR - Failed to load extension cogs.welcome: Extension 'cogs.welcome' raised an error: JSONDecodeError: Expecting value: line 7 column 25 (char 224)
+2026-02-01 17:55:50,448 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-02-01 17:55:50,453 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-02-01 17:55:50,456 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-02-01 17:55:50,462 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-02-01 17:55:50,468 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-02-01 17:55:50,474 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-02-01 17:55:50,485 - vantax - INFO - Successfully loaded extension: cogs.birthday
+2026-02-01 17:55:50,504 - vantax - INFO - Successfully loaded extension: cogs.automod
+2026-02-01 17:55:50,528 - vantax - INFO - Successfully loaded extension: cogs.antiraid
+2026-02-01 17:55:50,658 - vantax - ERROR - Failed to load extension cogs.security: Extension 'cogs.security' raised an error: ModuleNotFoundError: No module named 'psutil'
+2026-02-01 17:55:50,672 - vantax - ERROR - Failed to load extension cogs.database: Extension 'cogs.database' raised an error: ModuleNotFoundError: No module named 'mysql'
+2026-02-01 17:55:51,037 - vantax - INFO - Synced 44 commands
+2026-02-01 17:55:51,038 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-02-01 17:55:51,528 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d80b5d84be55a5f5e67959ec0001812f).
+2026-02-01 17:55:53,583 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-02-01 17:55:53,583 - vantax - INFO - ------
+2026-02-01 18:24:36,224 - discord.client - ERROR - Attempting a reconnect in 1.34s
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1335, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\resolver.py", line 38, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\client.py", line 724, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\asyncio\tasks.py", line 494, in wait_for
+    return fut.result()
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\gateway.py", line 383, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\http.py", line 566, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\client.py", line 938, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\client.py", line 663, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 538, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1341, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-d.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-02-01 18:24:38,153 - discord.client - ERROR - Attempting a reconnect in 1.00s
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1335, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\resolver.py", line 38, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\client.py", line 724, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\asyncio\tasks.py", line 494, in wait_for
+    return fut.result()
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\gateway.py", line 383, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\http.py", line 566, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\client.py", line 938, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\client.py", line 663, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 538, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1341, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-d.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-02-01 18:24:39,175 - discord.client - ERROR - Attempting a reconnect in 4.21s
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1335, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\resolver.py", line 38, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\client.py", line 724, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\asyncio\tasks.py", line 494, in wait_for
+    return fut.result()
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\gateway.py", line 383, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\http.py", line 566, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\client.py", line 938, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\client.py", line 663, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 538, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1341, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-d.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-02-01 18:24:44,736 - discord.gateway - INFO - Shard ID None has successfully RESUMED session d80b5d84be55a5f5e67959ec0001812f.
+2026-02-01 18:32:37,330 - discord.client - ERROR - Attempting a reconnect in 8.22s
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1335, in _create_direct_connection
+    hosts = await self._resolve_host(host, port, traces=traces)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 989, in _resolve_host
+    return await asyncio.shield(resolved_host_task)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1020, in _resolve_host_with_throttle
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\resolver.py", line 38, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\asyncio\base_events.py", line 825, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\client.py", line 724, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\asyncio\tasks.py", line 494, in wait_for
+    return fut.result()
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\gateway.py", line 383, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\discord\http.py", line 566, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\client.py", line 938, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\client.py", line 663, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 538, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Maurice\AppData\Local\Programs\Python\Python38\lib\site-packages\aiohttp\connector.py", line 1341, in _create_direct_connection
+    raise ClientConnectorDNSError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gateway-us-east1-d.discord.gg:443 ssl:default [getaddrinfo failed]
+2026-02-01 18:32:46,071 - discord.gateway - INFO - Shard ID None has successfully RESUMED session d80b5d84be55a5f5e67959ec0001812f.
+2026-02-01 20:16:02,705 - discord.gateway - INFO - Shard ID None has successfully RESUMED session d80b5d84be55a5f5e67959ec0001812f.
+2026-02-01 22:40:04,462 - discord.gateway - INFO - Shard ID None has successfully RESUMED session d80b5d84be55a5f5e67959ec0001812f.

@@ -1447,3 +1447,31 @@ aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host gatewa
 2026-02-01 18:32:46,071 - discord.gateway - INFO - Shard ID None has successfully RESUMED session d80b5d84be55a5f5e67959ec0001812f.
 2026-02-01 20:16:02,705 - discord.gateway - INFO - Shard ID None has successfully RESUMED session d80b5d84be55a5f5e67959ec0001812f.
 2026-02-01 22:40:04,462 - discord.gateway - INFO - Shard ID None has successfully RESUMED session d80b5d84be55a5f5e67959ec0001812f.
+2026-02-03 18:32:16,189 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-02-03 18:32:16,193 - discord.client - INFO - logging in using static token
+2026-02-03 18:32:22,012 - vantax - INFO - Successfully loaded extension: cogs.moderation
+2026-02-03 18:32:22,015 - vantax - INFO - Successfully loaded extension: cogs.fun
+2026-02-03 18:32:22,017 - vantax - INFO - Successfully loaded extension: cogs.info
+2026-02-03 18:32:22,021 - vantax - ERROR - Failed to load extension cogs.welcome: Extension 'cogs.welcome' raised an error: JSONDecodeError: Expecting value: line 7 column 25 (char 224)
+2026-02-03 18:32:22,024 - vantax - INFO - Successfully loaded extension: cogs.level
+2026-02-03 18:32:22,026 - vantax - INFO - Successfully loaded extension: cogs.serverstats
+2026-02-03 18:32:22,028 - vantax - INFO - Successfully loaded extension: cogs.ticket
+2026-02-03 18:32:22,033 - vantax - INFO - Successfully loaded extension: cogs.utility
+2026-02-03 18:32:22,036 - vantax - INFO - Successfully loaded extension: cogs.poll
+2026-02-03 18:32:22,039 - vantax - INFO - Successfully loaded extension: cogs.reminder
+2026-02-03 18:32:22,041 - vantax - INFO - Successfully loaded extension: cogs.birthday
+2026-02-03 18:32:22,044 - vantax - INFO - Successfully loaded extension: cogs.automod
+2026-02-03 18:32:22,046 - vantax - INFO - Successfully loaded extension: cogs.antiraid
+2026-02-03 18:32:22,075 - vantax - ERROR - Failed to load extension cogs.security: Extension 'cogs.security' raised an error: ModuleNotFoundError: No module named 'psutil'
+2026-02-03 18:32:22,079 - vantax - ERROR - Failed to load extension cogs.database: Extension 'cogs.database' raised an error: ModuleNotFoundError: No module named 'mysql'
+2026-02-03 18:32:22,085 - vantax - INFO - Successfully loaded extension: cogs.gaming
+2026-02-03 18:32:22,092 - vantax - ERROR - Failed to load extension cogs.music: Extension 'cogs.music' raised an error: ModuleNotFoundError: No module named 'youtube_dl'
+2026-02-03 18:32:22,100 - vantax - INFO - Successfully loaded extension: cogs.economy
+2026-02-03 18:32:22,107 - vantax - INFO - Successfully loaded extension: cogs.ai_commands
+2026-02-03 18:32:22,115 - vantax - INFO - Successfully loaded extension: cogs.advanced_security
+2026-02-03 18:32:22,122 - vantax - INFO - Successfully loaded extension: cogs.analytics
+2026-02-03 18:32:23,097 - vantax - INFO - Synced 44 commands
+2026-02-03 18:32:23,097 - vantax - INFO - Successfully logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-02-03 18:32:26,974 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1228143fd75781c958d1d90a3acb5a8c).
+2026-02-03 18:32:28,990 - vantax - INFO - Logged in as VANTAX#6688 (ID: 1365049471880401019)
+2026-02-03 18:32:28,990 - vantax - INFO - ------

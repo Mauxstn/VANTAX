@@ -65,6 +65,12 @@ class VantaxBot(commands.Bot):
             'cogs.antiraid',  # Add antiraid cog
             'cogs.security',  # Add security cog
             'cogs.database',  # Add database cog
+            'cogs.gaming',  # Add gaming cog
+            'cogs.music',  # Add music cog
+            'cogs.economy',  # Add economy cog
+            'cogs.ai_commands',  # Add AI commands cog
+            'cogs.advanced_security',  # Add advanced security cog
+            'cogs.analytics',  # Add analytics cog
         ]
         self.logger = logger
 
@@ -154,6 +160,75 @@ async def help_slash(interaction: discord.Interaction):
     `/ratelimits` - Configure Rate Limits ⚡
     `/memory` - Memory Management 💾
     `/database` - Database Management 🗄️
+    """, inline=False)
+    
+    # Gaming System
+    embed.add_field(name="🎮 Gaming System", value="""
+    `/meme` - Zufällige Memes von Reddit 😂
+    `/dice [seiten]` - Würfeln mit Animationen 🎲
+    `/8ball [frage]` - Magic 8 Ball 🔮
+    `/coinflip` - Münzwurf mit Animationen 🪙
+    `/rps [wahl]` - Schere Stein Papier ✂️
+    `/lottery [zahlen]` - Lotto System mit Jackpot 🎰
+    `/quiz [kategorie]` - Multiplayer Quiz Spiele 🧠
+    """, inline=False)
+    
+    # Music System
+    embed.add_field(name="🎵 Music System", value="""
+    `/play [url]` - YouTube/Spotify Integration 🎶
+    `/queue` - Visuelle Warteschlange 📋
+    `/nowplaying` - Beautiful Now Playing Embed 🎵
+    `/volume [lautstärke]` - Lautstärke Control 🔊
+    `/loop [modus]` - Loop/Queue/Track Modus 🔄
+    `/skip` - Song überspringen ⏭️
+    `/pause` - Musik pausieren ⏸️
+    `/resume` - Musik fortsetzen ▶️
+    `/stop` - Musik stoppen ⏹️
+    """, inline=False)
+    
+    # Economy System
+    embed.add_field(name="💰 Economy System", value="""
+    `/balance [user]` - Multi-Währung Kontostände 💵
+    `/daily` - Streak Boni & Belohnungen 🎁
+    `/work` - 50+ verschiedene Jobs 💼
+    `/gamble [betrag] [spiel]` - Casino Spiele 🎰
+    `/shop` - 100+ Shop Items 🛍️
+    `/buy [item]` - Items kaufen 🛒
+    `/inventory [user]` - Visual Inventory System 🎒
+    `/bank [aktion] [betrag]` - Bank System 🏦
+    """, inline=False)
+    
+    # AI Commands
+    embed.add_field(name="🤖 AI Commands", value="""
+    `/chatgpt [prompt]` - OpenAI GPT-4 Integration 🧠
+    `/image_gen [prompt]` - DALL-E 3 Bildgenerierung 🎨
+    `/translate [sprache] [text]` - Google Translate API 🌐
+    `/summarize [text]` - Text Zusammenfassung 📝
+    `/sentiment [text]` - Gefühlsanalyse 😊
+    `/code_helper [problem]` - Code Completion & Debugging 💻
+    `/story_generator [prompt]` - KI Story Generator 📖
+    `/poem [thema]` - AI Gedichte 🎭
+    `/joke [kategorie]` - AI Witze 😄
+    `/advice [thema]` - AI Ratschläge 💡
+    """, inline=False)
+    
+    # Advanced Security
+    embed.add_field(name="🛡️ Advanced Security", value="""
+    `/antivirus [url/text]` - Link Scanner mit VirusTotal 🦠
+    `/ip_lookup [ip]` - IP Geolocation & Security 🌍
+    `/user_scan [user]` - Benutzer Sicherheitsanalyse 🔍
+    `/server_security` - Kompletter Security Audit 🛡️
+    `/threat_level` - Echtzeit Bedrohungsanalyse 🚨
+    `/security_report [tage]` - Sicherheitsbericht 📊
+    """, inline=False)
+    
+    # Analytics
+    embed.add_field(name="📊 Analytics", value="""
+    `/server_stats` - Real-time Server Statistiken 📈
+    `/user_analytics [user]` - Detaillierte Benutzeranalyse 👤
+    `/activity_report [tage]` - Wöchentliche Berichte 📅
+    `/growth_metrics [tage]` - Wachstumsprognosen 📊
+    `/engagement_stats [tage]` - Engagement Metriken 💬
     """, inline=False)
     
     # Levelsystem
